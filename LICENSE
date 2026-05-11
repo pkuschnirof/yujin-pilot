@@ -1,0 +1,38 @@
+YUJIN PILOT -- COMMERCIAL SOFTWARE LICENSE
+
+Copyright (c) 2026 Pablo Kuschnirof / Yujin (rpaforce.com).
+
+PRELIMINARY LICENSE NOTICE -- DAY 0
+====================================
+
+This repository is the day-0 planning anchor for Yujin Pilot.
+Source code shipped here today (this LICENSE, README.md,
+docs/SPEC.md, CLAUDE.md) is published under the Apache License,
+Version 2.0.
+
+When Yujin Pilot ships its commercial features (desktop binary,
+voice pipeline, macros engine, conflict resolver, license-gated
+peer dispatch beyond the trial limits), those features will
+ship under a separate COMMERCIAL LICENSE issued by Yujin
+(rpaforce.com) on a per-seat or per-organisation basis.
+
+The MCP discovery layer's WIRE PROTOCOL stays open and is
+documented as part of the NAC v2.3 spec, so any tool can
+implement compatible discovery.
+
+UNTIL THE COMMERCIAL LICENSE LANDS, THIS REPOSITORY'S CONTENTS
+ARE LICENSED UNDER APACHE-2.0:
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+   implied. See the License for the specific language governing
+   permissions and limitations under the License.
+
+Full Apache-2.0 text: see http://www.apache.org/licenses/LICENSE-2.0
